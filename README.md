@@ -1,2 +1,1 @@
-# hello-world
-I'm trying to learn howto make a repository. 
+I'm still trying to figure this out, but I think I'm starting to get it. 
